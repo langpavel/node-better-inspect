@@ -1,0 +1,18 @@
+{
+  "name": "better-inspect",
+  "version": "0.0.1",
+  "description": "Better output for node util.inspect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/langpavel/node-better-inspect.git"
+  },
+  "keywords": [
+    "inspect"
+  ],
+  "author": "Pavel Lang <langpavel@phpskelet.org>",
+  "license": "BSD"
+}
